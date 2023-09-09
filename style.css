@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    width: 412px;
+    
+}
+#text{
+    height: 50px;
+    width: 110px;
+    margin: 0;
+   
+}
+#heart{
+    height: 35px;
+    width: 40px;
+   
+   
+}
+#inbox{
+    height: 35px;
+    width: 40px;
+   
+    
+}
+.nav1{
+    background-color: white;
+    position: sticky;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+#s0{
+    height: 110px;
+    width: 100px;
+}
+
+#home{
+    height: 35px;
+    width: 40px;
+    
+}
+.nav3{
+    background-color: white;
+    position: relative;
+}
+#explore{
+    height: 35px;
+    width: 40px;
+}
+.nav3 img{
+    height: 35px;
+    width: 40px;
+}
+.nav3 th{
+    padding-left: 35px;
+}
+
+#post1{
+    height: 680px;
+    width: 412px;
+}
